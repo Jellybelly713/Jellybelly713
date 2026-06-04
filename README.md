@@ -12,4 +12,4 @@ Currently:
 - Expanding my technical art and game design skills
 - Always learning something new
 
-I want to create experiences that aim to resonate with others and communicate something meaningful without needing explanation.
+My goal is to create experiences that aim to resonate with others and communicate something meaningful without needing explanation.
