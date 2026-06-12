@@ -1,7 +1,5 @@
 # Hi, I'm Anjali :P
 
-> "I thought I found myself. Turns out I'm still becoming."
-
 I'm an Interactive Multimedia & Design student who enjoys building things where art and code meet.
 
 Most of my time is spent creating game systems, procedural tools, UI/UX experiences, and 3D assets. I create ideas into experiences, whether that's through C#, Python, Unity, Godot, Maya, or Blender.
