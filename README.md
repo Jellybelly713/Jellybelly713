@@ -9,5 +9,3 @@ Currently:
 - Developing procedural generation tools in Maya Python
 - Expanding my technical art and game design skills
 - Always learning something new
-
-My goal is to create experiences that aim to resonate with others and communicate something meaningful without needing explanation.
