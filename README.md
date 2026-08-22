@@ -9,3 +9,5 @@ Currently:
 - Developing procedural generation tools in Maya Python
 - Expanding my technical art and game design skills
 - Always learning something new
+
+Check out my Portfolio -> https://anjalisalagala.com 
